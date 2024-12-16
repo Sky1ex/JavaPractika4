@@ -1,0 +1,175 @@
+[ {
+  "type" : "general",
+  "jokes" : [ {
+    "id" : 38,
+    "text" : "If you're American when you go into the bathroom, and American when you come out, what are you when you're in there? European"
+  }, {
+    "id" : 44,
+    "text" : "If you boil a clown... Do you get a laughing stock?"
+  }, {
+    "id" : 80,
+    "text" : "Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump."
+  }, {
+    "id" : 234,
+    "text" : "What does a clock do when it's hungry? It goes back four seconds!"
+  }, {
+    "id" : 146,
+    "text" : "Is the pool safe for diving? It deep ends."
+  }, {
+    "id" : 125,
+    "text" : "How do you get two whales in a car? Start in England and drive West."
+  }, {
+    "id" : 105,
+    "text" : "Do I enjoy making courthouse puns? Guilty"
+  }, {
+    "id" : 240,
+    "text" : "What is a tornado's favorite game to play? Twister!"
+  }, {
+    "id" : 358,
+    "text" : "Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!"
+  }, {
+    "id" : 241,
+    "text" : "What is a vampire's favorite fruit? A blood orange."
+  }, {
+    "id" : 228,
+    "text" : "What do you get hanging from Apple trees? Sore arms."
+  }, {
+    "id" : 254,
+    "text" : "What kind of magic do cows believe in? MOODOO."
+  }, {
+    "id" : 122,
+    "text" : "How do you fix a broken pizza? With tomato paste."
+  }, {
+    "id" : 66,
+    "text" : "Did you watch the new comic book movie? It was very graphic!"
+  }, {
+    "id" : 321,
+    "text" : "Why did the cookie cry? It was feeling crumby."
+  }, {
+    "id" : 188,
+    "text" : "What do I look like? A JOKE MACHINE!?"
+  }, {
+    "id" : 433,
+    "text" : "Why did the golfer wear two pairs of pants? In case he got a hole in one."
+  }, {
+    "id" : 396,
+    "text" : "Why didn't the skeleton go for prom? Because it had nobody."
+  }, {
+    "id" : 234,
+    "text" : "What does a clock do when it's hungry? It goes back four seconds!"
+  }, {
+    "id" : 157,
+    "text" : "What creature is smarter than a talking parrot? A spelling bee."
+  } ]
+}, {
+  "type" : "dad",
+  "jokes" : [ {
+    "id" : 384,
+    "text" : "Why don't eggs tell jokes? Because they would crack each other up."
+  }, {
+    "id" : 378,
+    "text" : "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!"
+  }, {
+    "id" : 378,
+    "text" : "Why do fathers take an extra pair of socks when they go golfing? In case they get a hole in one!"
+  }, {
+    "id" : 384,
+    "text" : "Why don't eggs tell jokes? Because they would crack each other up."
+  } ]
+}, {
+  "type" : "knock-knock",
+  "jokes" : [ {
+    "id" : 33,
+    "text" : "Knock knock. \n Who's there? \n Opportunity. That is impossible. Opportunity doesn’t come knocking twice!"
+  }, {
+    "id" : 60,
+    "text" : "Knock knock. \n Who's there? \n Hatch. \n Hatch who? Bless you!"
+  }, {
+    "id" : 11,
+    "text" : "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who? Never mind. It's pointless."
+  }, {
+    "id" : 12,
+    "text" : "Knock knock. \n Who's there? \n Cows go. \n Cows go who? No, cows go moo."
+  }, {
+    "id" : 13,
+    "text" : "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who? I didn't know you could yodel!"
+  }, {
+    "id" : 60,
+    "text" : "Knock knock. \n Who's there? \n Hatch. \n Hatch who? Bless you!"
+  }, {
+    "id" : 13,
+    "text" : "Knock knock. \n Who's there? \n Little old lady. \n Little old lady who? I didn't know you could yodel!"
+  }, {
+    "id" : 12,
+    "text" : "Knock knock. \n Who's there? \n Cows go. \n Cows go who? No, cows go moo."
+  }, {
+    "id" : 11,
+    "text" : "Knock knock. \n Who's there? \n A broken pencil. \n A broken pencil who? Never mind. It's pointless."
+  }, {
+    "id" : 33,
+    "text" : "Knock knock. \n Who's there? \n Opportunity. That is impossible. Opportunity doesn’t come knocking twice!"
+  } ]
+}, {
+  "type" : "programming",
+  "jokes" : [ {
+    "id" : 32,
+    "text" : "Which song would an exception sing? Can't catch me - Avicii"
+  }, {
+    "id" : 413,
+    "text" : "Why did the developer go broke buying Bitcoin? He kept calling it bytecoin and didn't get any."
+  }, {
+    "id" : 408,
+    "text" : "Why did the developer quit his job? Because he didn't get arrays."
+  }, {
+    "id" : 17,
+    "text" : "Where do programmers like to hangout? The Foo Bar."
+  }, {
+    "id" : 412,
+    "text" : "What do you get when you cross a React developer with a mathematician? A function component."
+  }, {
+    "id" : 367,
+    "text" : "An IPv6 packet is walking out of the house. He goes nowhere."
+  }, {
+    "id" : 34,
+    "text" : "Why do Java programmers wear glasses? Because they don't C#."
+  }, {
+    "id" : 368,
+    "text" : "A DHCP packet walks into a bar and asks for a beer. Bartender says, \"here, but I’ll need that back in an hour!\""
+  }, {
+    "id" : 445,
+    "text" : "Why was the designer always cold? Because they always used too much ice-olation."
+  }, {
+    "id" : 55,
+    "text" : "How do you check if a webpage is HTML5? Try it out on Internet Explorer"
+  }, {
+    "id" : 367,
+    "text" : "An IPv6 packet is walking out of the house. He goes nowhere."
+  }, {
+    "id" : 445,
+    "text" : "Why was the designer always cold? Because they always used too much ice-olation."
+  }, {
+    "id" : 395,
+    "text" : "Hey, wanna hear a joke? Parsing HTML with regex."
+  }, {
+    "id" : 14,
+    "text" : "Why would a guitarist become a good programmer? He's adept at riffing in C#."
+  }, {
+    "id" : 380,
+    "text" : "What did the Java code say to the C code? You've got no class."
+  }, {
+    "id" : 371,
+    "text" : "What’s the object-oriented way to become wealthy? Inheritance."
+  }, {
+    "id" : 409,
+    "text" : "What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit."
+  }, {
+    "id" : 418,
+    "text" : "Why did the programmer always mix up Halloween and Christmas? Because Oct 31 equals Dec 25."
+  }, {
+    "id" : 376,
+    "text" : "Why dot net developers don't wear glasses? Because they see sharp."
+  }, {
+    "id" : 17,
+    "text" : "Where do programmers like to hangout? The Foo Bar."
+  } ]
+} ]

@@ -1,0 +1,131 @@
+[ {
+  "last" : "Austin",
+  "name" : "Toni",
+  "address" : {
+    "country" : "United States",
+    "state" : "Nebraska",
+    "city" : "Farmers Branch",
+    "street" : "Parker Rd",
+    "number" : 7732
+  },
+  "email" : "toni.austin@example.com",
+  "phone" : "(850) 591-3461",
+  "url" : "https://randomuser.me/api/portraits/women/82.jpg"
+}, {
+  "last" : "محمدخان",
+  "name" : "بنیامین",
+  "address" : {
+    "country" : "Iran",
+    "state" : "بوشهر",
+    "city" : "بندرعباس",
+    "street" : "کلاهدوز",
+    "number" : 4147
+  },
+  "email" : "bnymyn.mhmdkhn@example.com",
+  "phone" : "089-07882249",
+  "url" : "https://randomuser.me/api/portraits/men/58.jpg"
+}, {
+  "last" : "Fabre",
+  "name" : "Marina",
+  "address" : {
+    "country" : "Switzerland",
+    "state" : "Basel-Landschaft",
+    "city" : "Jaberg",
+    "street" : "Rue du 8 Mai 1945",
+    "number" : 1711
+  },
+  "email" : "marina.fabre@example.com",
+  "phone" : "077 659 18 85",
+  "url" : "https://randomuser.me/api/portraits/women/88.jpg"
+}, {
+  "last" : "Tomović",
+  "name" : "Mladen",
+  "address" : {
+    "country" : "Serbia",
+    "state" : "Kosovo-Pomoravlje",
+    "city" : "Koceljeva",
+    "street" : "Porodice Zarić",
+    "number" : 9577
+  },
+  "email" : "mladen.tomovic@example.com",
+  "phone" : "016-2158-507",
+  "url" : "https://randomuser.me/api/portraits/men/23.jpg"
+}, {
+  "last" : "Teodosić",
+  "name" : "Dubravko",
+  "address" : {
+    "country" : "Serbia",
+    "state" : "Jablanica",
+    "city" : "Bela Palanka",
+    "street" : "Predraga Radmilca",
+    "number" : 961
+  },
+  "email" : "dubravko.teodosic@example.com",
+  "phone" : "029-4753-939",
+  "url" : "https://randomuser.me/api/portraits/men/80.jpg"
+}, {
+  "last" : "Milutinović",
+  "name" : "Lazar",
+  "address" : {
+    "country" : "Serbia",
+    "state" : "Podunavlje",
+    "city" : "Rača",
+    "street" : "Ljubisava Šarčevića",
+    "number" : 708
+  },
+  "email" : "lazar.milutinovic@example.com",
+  "phone" : "024-5833-632",
+  "url" : "https://randomuser.me/api/portraits/men/16.jpg"
+}, {
+  "last" : "Bolatlı",
+  "name" : "Melike",
+  "address" : {
+    "country" : "Turkey",
+    "state" : "Isparta",
+    "city" : "Antalya",
+    "street" : "Doktorlar Cd",
+    "number" : 7479
+  },
+  "email" : "melike.bolatli@example.com",
+  "phone" : "(199)-654-7843",
+  "url" : "https://randomuser.me/api/portraits/women/82.jpg"
+}, {
+  "last" : "Vujčić",
+  "name" : "Antonije",
+  "address" : {
+    "country" : "Serbia",
+    "state" : "Braničevo",
+    "city" : "Senta",
+    "street" : "Gavre Plavšića",
+    "number" : 7492
+  },
+  "email" : "antonije.vujcic@example.com",
+  "phone" : "013-6510-305",
+  "url" : "https://randomuser.me/api/portraits/men/60.jpg"
+}, {
+  "last" : "Barnett",
+  "name" : "Francis",
+  "address" : {
+    "country" : "United States",
+    "state" : "Massachusetts",
+    "city" : "Brownsville",
+    "street" : "Spring St",
+    "number" : 4133
+  },
+  "email" : "francis.barnett@example.com",
+  "phone" : "(203) 465-8867",
+  "url" : "https://randomuser.me/api/portraits/men/45.jpg"
+}, {
+  "last" : "Cooper",
+  "name" : "Lloyd",
+  "address" : {
+    "country" : "Australia",
+    "state" : "Western Australia",
+    "city" : "Port Macquarie",
+    "street" : "W Gray St",
+    "number" : 7550
+  },
+  "email" : "lloyd.cooper@example.com",
+  "phone" : "03-1540-0326",
+  "url" : "https://randomuser.me/api/portraits/men/42.jpg"
+} ]
